@@ -4,13 +4,13 @@ link:
     href: 'css/sample1.css'
 ---
 
-# コンピュータの<br>重箱の隅{#h1_1 .chapter}
+# コンピュータの<br>重箱の隅
 
 <div class="subtitle">
 『Vivliostyle CSS組版入門』サンプル
 </div>
 
-## 論理回路から加算器は飛躍しすぎ？{#h2_1 .section}
+## 論理回路から加算器は飛躍しすぎ？
 過去に「コンピュータの歴史」を**ブール論理（Boolean Logic）**の誕生あたりからたどろうとして、いろいろと調べてみたのだが、**ジョージ・ブール氏**の考えたものは現在ブール論理として習うものとかなり違っていた。ブール氏が考えたのは、*言葉で推論するとどうしてもあいまいさが生じるので、数式を使って推論すべきだ*というものだった。実際、ブール氏の論文を見てみると、足し算や掛け算らしき数式しか書かれていない。
 
 ![The Mathematical Analysis of Logic by George Boole](img/img1-bool.png){.float-bottom}
